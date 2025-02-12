@@ -22,7 +22,7 @@
 
 ### 题目
 
--   JarvisOJ - Basec - 「-.-字符串」
+-   JarvisOJ - Basic - 「-.-字符串」
 
 ## 敲击码
 
